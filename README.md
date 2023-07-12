@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on anyone who is interested on me (if I'm available)
 - 📫 Email me to reach me!
 
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwchoi84"/> <img src="http://mazandi.herokuapp.com/api?handle=jwchoi84&theme=warm"/>
+
 Check my github blog for more informations about me!  
 Link: <https://choicube84.github.io/>
 
