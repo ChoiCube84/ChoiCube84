@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on anyone who is interested on me (if I'm available)
 - 📫 Email me to reach me!
 
-![ChoiCube84's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiCube84&show_icons=true&theme=default)
-
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwchoi84"/> <img src="http://mazandi.herokuapp.com/api?handle=jwchoi84&theme=warm"/>
 
 Check my github blog for more informations about me!  
